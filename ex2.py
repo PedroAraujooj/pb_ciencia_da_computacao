@@ -153,13 +153,11 @@ class Fila:
         return Fila(list(self.itens))
 
 
-# Função para ler a listagem de arquivos
 def ler_listagem_arquivos(nome_arquivo):
     with open(nome_arquivo, 'r') as arquivo:
         return [linha.strip() for linha in arquivo.readlines()]
 
 
-# Função para ler as operações do arquivo xlsx
 def ler_operacoes(nome_arquivo):
     df = pd.read_excel(nome_arquivo)
     insercoes = []
@@ -392,10 +390,10 @@ def insercao_remocao_fila(fila, insercoes, remocoes):
 
 if __name__ == "__main__":
     nome_arquivo_lista = 'pb_tp1.txt'
-    nome_arquivo_operacoes = 'operacoes.xlsx'  # Nome do arquivo xlsx com as operações
+    nome_arquivo_operacoes = 'operacoes.xlsx'
     lista_arquivos = ler_listagem_arquivos(nome_arquivo_lista)
     insercoes, remocoes = ler_operacoes(nome_arquivo_operacoes)
-    posicoes_recuperacao = [0, 99, 999, 4999, -1]  # Ajuste para índices baseados em zero
+    posicoes_recuperacao = [0, 99, 999, 4999, -1]
 
     print("\n--- Operações na Tabela Hash ---")
     tabela_hash = inicializar_tabela_hash(list(lista_arquivos))

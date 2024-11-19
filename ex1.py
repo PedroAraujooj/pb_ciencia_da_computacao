@@ -38,15 +38,13 @@ def calcular_media_bubble(arr):
     print(f"---------------------- Bubble Sort ----------------------")
 
     listaMediaTempo = [0] * 10
-    arrays = []
-    for i in range(1000, 10001, 1000):
-        arrays.append(arr[:i])
     for _ in range(10):
-        for id, array in enumerate(arrays):
+        for i in range(1000, 10001, 1000):
+            array = arr[:i].copy()
             tempInicial = time.time()
             bubble(array)
             temp_final = time.time() - tempInicial
-            listaMediaTempo[id] += temp_final
+            listaMediaTempo[(i // 1000) - 1] += temp_final
     for i in range(10):
         print(
             f"Bubble Sort - Ordenação de {1000 * (i + 1)} elementos: tempo médio = {(listaMediaTempo[i] / 10):.6f}s")
@@ -54,17 +52,14 @@ def calcular_media_bubble(arr):
 
 def calcular_media_selection(arr):
     print(f"---------------------- Selection Sort ----------------------")
-
     listaMediaTempo = [0] * 10
-    arrays = []
-    for i in range(1000, 10001, 1000):
-        arrays.append(arr[:i])
     for _ in range(10):
-        for id, array in enumerate(arrays):
+        for i in range(1000, 10001, 1000):
+            array = arr[:i].copy()
             tempInicial = time.time()
             selection(array)
             temp_final = time.time() - tempInicial
-            listaMediaTempo[id] += temp_final
+            listaMediaTempo[(i // 1000) - 1] += temp_final
     for i in range(10):
         print(
             f"Selection Sort - Ordenação de {1000 * (i + 1)} elementos: tempo médio = {(listaMediaTempo[i] / 10):.6f}s")
@@ -72,20 +67,16 @@ def calcular_media_selection(arr):
 
 def calcular_media_insertion(arr):
     print(f"---------------------- Insertion Sort ----------------------")
-
     listaMediaTempo = [0] * 10
-    arrays = []
-    for i in range(1000, 10001, 1000):
-        arrays.append(arr[:i])
     for _ in range(10):
-        for id, array in enumerate(arrays):
+        for i in range(1000, 10001, 1000):
+            array = arr[:i].copy()
             tempInicial = time.time()
             insertion(array)
             temp_final = time.time() - tempInicial
-            listaMediaTempo[id] += temp_final
+            listaMediaTempo[(i // 1000) - 1] += temp_final
     for i in range(10):
-        print(
-            f"Insertion Sort - Ordenação de {1000 * (i + 1)} elementos: tempo médio = {(listaMediaTempo[i] / 10):.6f}s")
+        print(f"Insertion Sort - Ordenação de {1000 * (i + 1)} elementos: tempo médio = {(listaMediaTempo[i] / 10):.6f}s")
 
 
 if __name__ == "__main__":
