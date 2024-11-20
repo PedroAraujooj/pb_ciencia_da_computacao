@@ -273,7 +273,7 @@ def recuperacao_pilha(pilha, posicoes):
     tracemalloc.stop()
     for i in range(5):
         print(
-            f"Pilha - Recuperação da posição {posicoes[i]}: tempo = {int(listaMediaTempo[i] / 10):.6f}s, memória = {(listaMediaMemo[i] / 10) / 1024:.2f} KiB")
+            f"Pilha - Recuperação da posição {posicoes[i]}: tempo = {(listaMediaTempo[i] / 10):.6f}s, memória = {(listaMediaMemo[i] / 10) / 1024:.2f} KiB")
     return recuperados
 
 
@@ -343,7 +343,7 @@ def recuperacao_fila(fila, posicoes):
     tracemalloc.stop()
     for i in range(5):
         print(
-            f"Fila - Recuperação da posição {posicoes[i]}: tempo = {int(listaMediaTempo[i] / 10):.6f}s, memória = {(listaMediaMemo[i] / 10) / 1024:.2f} KiB")
+            f"Fila - Recuperação da posição {posicoes[i]}: tempo = {(listaMediaTempo[i] / 10):.6f}s, memória = {(listaMediaMemo[i] / 10) / 1024:.2f} KiB")
     return recuperados
 
 
