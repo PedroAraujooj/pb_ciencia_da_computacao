@@ -38,7 +38,7 @@ class GrafoAlgoritmoPrim:
                     chave[vizinho] = peso
                     pai[vizinho] = u
 
-        print("\nArestas da Árvore Geradora Mínima:")
+        # print("\nArestas da Árvore Geradora Mínima:")
         return pai
 
     def imprimir(self, pai):

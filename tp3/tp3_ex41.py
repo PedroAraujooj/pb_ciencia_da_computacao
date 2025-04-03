@@ -4,7 +4,7 @@ def valida_ip(ip_str, prefixo):
     try:
         ip = ipaddress.IPv4Address(ip_str)
         network = ipaddress.IPv4Network(prefixo, strict=False)
-        print(network)
+        # print(network)
         return ip in network
     except ValueError as e:
         print(f"Erro ao converter endereço ou prefixo: {e}")

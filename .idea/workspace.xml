@@ -4,95 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8192be3-444f-4790-a868-f956f1b636aa" name="Changes" comment="updt2">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex11/tp2_ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex12/soma_vetor_parallel.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex12/tp2_ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex12/tp2_ex2_setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex13/tp2_ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex43/tp2_ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex52/tp2_ex52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex53/tp2_ex53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex54/tp2_ex54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex62.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2/tp2_ex64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/ArvoreBinaria.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/ArvoreTrie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/RadixTrie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex24/tp3_ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3/tp3_ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/ListaAdjacencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/MinHeap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/Trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp4/tp4_ex53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/GrafoAlgoritmoPrim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/GrafoPonderado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex31_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex31_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex42_teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp5/tp5_ex52.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp1/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp2/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operacoes.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/tp1/operacoes.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb_tp1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tp1/pb_tp1.txt" afterDir="false" />
+    <list default="true" id="d8192be3-444f-4790-a868-f956f1b636aa" name="Changes" comment="updt para o AT">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3/tp3_ex41.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/tp3_ex41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp4/tp4_ex32.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp4/tp4_ex32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp4/tp4_ex33.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp4/tp4_ex33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp5/GrafoAlgoritmoPrim.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp5/GrafoAlgoritmoPrim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp5/tp5_ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp5/tp5_ex11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp5/tp5_ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp5/tp5_ex12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp5/tp5_ex21.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp5/tp5_ex21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp5/tp5_ex22.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp5/tp5_ex22.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,14 +161,14 @@
       <recent name="C:\Projetos\infnet\pb_so_alg\pythonProject\tp2_ex53" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projetos\infnet\pb_so_alg\pythonProject\tp1" />
       <recent name="C:\Projetos\infnet\pb_so_alg\pythonProject\tp5" />
       <recent name="C:\Projetos\infnet\pb_so_alg\pythonProject\tp3" />
       <recent name="C:\Projetos\infnet\pb_so_alg\pythonProject\tp3\tp3_ex24" />
       <recent name="C:\Projetos\infnet\pb_so_alg\pythonProject\tp2" />
-      <recent name="C:\Projetos\infnet\pb_so_alg\pythonProject\tp1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tp4_ex12">
+  <component name="RunManager" selected="Python.tp5_ex22">
     <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -317,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tp4_ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tp4_ex33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,30 +252,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp4/tp4_ex11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tp4_ex12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tp4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp4/tp4_ex12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp4/tp4_ex33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -409,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tp5_ex52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tp5_ex21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -423,8 +321,31 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp5/tp5_ex52.py" />
-      <option name="PARAMETERS" value="192.168.0.1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp5/tp5_ex21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tp5_ex22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tp5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp5/tp5_ex22.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -434,19 +355,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.ex1" />
-      <item itemvalue="Python.tp4_ex11" />
-      <item itemvalue="Python.tp4_ex12" />
+      <item itemvalue="Python.tp4_ex33" />
+      <item itemvalue="Python.tp5_ex21" />
+      <item itemvalue="Python.tp5_ex22" />
       <item itemvalue="Python.tp5_ex11" />
       <item itemvalue="Python.tp5_ex12" />
-      <item itemvalue="Python.tp5_ex52" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tp4_ex12" />
-        <item itemvalue="Python.tp4_ex11" />
-        <item itemvalue="Python.tp5_ex52" />
-        <item itemvalue="Python.tp5_ex11" />
+        <item itemvalue="Python.tp5_ex22" />
+        <item itemvalue="Python.tp5_ex21" />
         <item itemvalue="Python.tp5_ex12" />
+        <item itemvalue="Python.tp5_ex11" />
+        <item itemvalue="Python.tp4_ex33" />
       </list>
     </recent_temporary>
   </component>
@@ -492,6 +413,7 @@
       <workItem from="1743038216336" duration="9856000" />
       <workItem from="1743133474324" duration="113000" />
       <workItem from="1743133742325" duration="25951000" />
+      <workItem from="1743548012319" duration="15648000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -517,7 +439,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732069798968</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updt para o AT">
+      <option name="closed" value="true" />
+      <created>1743548126058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743548126058</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updt para o AT">
+      <option name="closed" value="true" />
+      <created>1743548171704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743548171704</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updt para o AT">
+      <option name="closed" value="true" />
+      <created>1743548302410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743548302410</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,13 +473,14 @@
     <MESSAGE value="init" />
     <MESSAGE value="updt" />
     <MESSAGE value="updt2" />
-    <option name="LAST_COMMIT_MESSAGE" value="updt2" />
+    <MESSAGE value="updt para o AT" />
+    <option name="LAST_COMMIT_MESSAGE" value="updt para o AT" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tp2/ex2.py</url>
+          <url>file://$PROJECT_DIR$/tp1/ex2.py</url>
           <line>82</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -561,15 +508,15 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$tp2_ex51.coverage" NAME="tp2_ex51 Coverage Results" MODIFIED="1735017297715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp2_ex51.coverage" NAME="tp2_ex51 Coverage Results" MODIFIED="1743549826117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp2" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex23.coverage" NAME="tp3_ex23 Coverage Results" MODIFIED="1739574712130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex41_servidor.coverage" NAME="tp4_ex41_servidor Coverage Results" MODIFIED="1741734003208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex32.coverage" NAME="tp3_ex32 Coverage Results" MODIFIED="1739415225222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex54.coverage" NAME="tp2_ex54 Coverage Results" MODIFIED="1734575840690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex42__1_.coverage" NAME="tp4_ex42 (1) Coverage Results" MODIFIED="1742175251218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex32.coverage" NAME="tp3_ex32 Coverage Results" MODIFIED="1743552578776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex63.coverage" NAME="tp2_ex63 Coverage Results" MODIFIED="1735066894056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex31.coverage" NAME="tp5_ex31 Coverage Results" MODIFIED="1742654304412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex41.coverage" NAME="tp3_ex41 Coverage Results" MODIFIED="1739584711615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex41.coverage" NAME="tp3_ex41 Coverage Results" MODIFIED="1743553110393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex22.coverage" NAME="tp4_ex22 Coverage Results" MODIFIED="1741658704478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex31_client.coverage" NAME="tp5_ex31_client Coverage Results" MODIFIED="1742779398011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex13.coverage" NAME="tp4_ex13 Coverage Results" MODIFIED="1741658217751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
@@ -579,36 +526,36 @@
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex1.coverage" NAME="tp3_ex1 Coverage Results" MODIFIED="1739328549003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex4.coverage" NAME="tp3_ex14 Coverage Results" MODIFIED="1739402789389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex34.coverage" NAME="tp4_ex34 Coverage Results" MODIFIED="1741731462842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex12.coverage" NAME="tp5_ex12 Coverage Results" MODIFIED="1743040242807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex12.coverage" NAME="tp5_ex12 Coverage Results" MODIFIED="1743562223816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex11.coverage" NAME="tp2_ex11 Coverage Results" MODIFIED="1734999340120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp2_ex11" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex21.coverage" NAME="tp5_ex21 Coverage Results" MODIFIED="1743040181175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex21.coverage" NAME="tp5_ex21 Coverage Results" MODIFIED="1743641788975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex23.coverage" NAME="tp2_ex23 Coverage Results" MODIFIED="1735002652553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex44__1_.coverage" NAME="tp4_ex44 (1) Coverage Results" MODIFIED="1742175312530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex13.coverage" NAME="tp3_ex13 Coverage Results" MODIFIED="1739573080853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex42.coverage" NAME="tp3_ex42 Coverage Results" MODIFIED="1739592214283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex42.coverage" NAME="tp3_ex42 Coverage Results" MODIFIED="1743553512606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex41.coverage" NAME="tp2_ex41 Coverage Results" MODIFIED="1735004523543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp2_ex61.coverage" NAME="tp2_ex61 Coverage Results" MODIFIED="1735062507256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp2_ex61.coverage" NAME="tp2_ex61 Coverage Results" MODIFIED="1743550197364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp2" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex13__1_.coverage" NAME="tp2_ex13 (1) Coverage Results" MODIFIED="1734999545566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp2_ex13" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp4_ex32.coverage" NAME="tp4_ex32 Coverage Results" MODIFIED="1741731274202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp4_ex32.coverage" NAME="tp4_ex32 Coverage Results" MODIFIED="1743560855339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex2.coverage" NAME="tp3_ex2 Coverage Results" MODIFIED="1739329272271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex41.coverage" NAME="tp5_ex41 Coverage Results" MODIFIED="1742779870661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex53.coverage" NAME="tp2_ex53 Coverage Results" MODIFIED="1734575808260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex31.coverage" NAME="tp3_ex31 Coverage Results" MODIFIED="1739415175374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2.coverage" NAME="tp2 Coverage Results" MODIFIED="1734315488241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1742778354908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex22.coverage" NAME="tp5_ex22 Coverage Results" MODIFIED="1743040162391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex22.coverage" NAME="tp5_ex22 Coverage Results" MODIFIED="1743645719857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex24.coverage" NAME="tp2_ex24 Coverage Results" MODIFIED="1735002917122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex43.coverage" NAME="tp3_ex43 Coverage Results" MODIFIED="1739592318557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex41_cliente.coverage" NAME="tp4_ex41_cliente Coverage Results" MODIFIED="1741734005663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex43.coverage" NAME="tp3_ex43 Coverage Results" MODIFIED="1743554003712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex21.coverage" NAME="tp4_ex21 Coverage Results" MODIFIED="1741658537453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex42.coverage" NAME="tp2_ex42 Coverage Results" MODIFIED="1735004914598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex52.coverage" NAME="tp5_ex52 Coverage Results" MODIFIED="1743208723228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex14.coverage" NAME="tp3_ex14 Coverage Results" MODIFIED="1739573445871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex3.coverage" NAME="tp2_ex3 Coverage Results" MODIFIED="1734397862405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex11.coverage" NAME="tp5_ex11 Coverage Results" MODIFIED="1743040293032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp5_ex11.coverage" NAME="tp5_ex11 Coverage Results" MODIFIED="1743561668065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex22.coverage" NAME="tp2_ex22 Coverage Results" MODIFIED="1735000184705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex3.coverage" NAME="tp3_ex3 Coverage Results" MODIFIED="1739329630076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp4_ex33.coverage" NAME="tp4_ex33 Coverage Results" MODIFIED="1741731288633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp4_ex33.coverage" NAME="tp4_ex33 Coverage Results" MODIFIED="1743561082581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex43__1_.coverage" NAME="tp4_ex43 (1) Coverage Results" MODIFIED="1742175300469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex42.coverage" NAME="tp4_ex42 Coverage Results" MODIFIED="1742654830470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex13.coverage" NAME="tp2_ex13 Coverage Results" MODIFIED="1734651993475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -626,7 +573,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex51.coverage" NAME="tp5_ex51 Coverage Results" MODIFIED="1743039732942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex52.coverage" NAME="tp2_ex52 Coverage Results" MODIFIED="1735062497611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp2_ex52" />
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex42.coverage" NAME="tp5_ex42 Coverage Results" MODIFIED="1742780447952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
-    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex33.coverage" NAME="tp3_ex33 Coverage Results" MODIFIED="1739416087234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
+    <SUITE FILE_PATH="coverage/pythonProject$tp3_ex33.coverage" NAME="tp3_ex33 Coverage Results" MODIFIED="1743553056668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex43_44_cliente.coverage" NAME="tp4_ex43_44_cliente Coverage Results" MODIFIED="1741734691682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex64.coverage" NAME="tp2_ex64 Coverage Results" MODIFIED="1739328538746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex42_teste.coverage" NAME="tp5_ex42_teste Coverage Results" MODIFIED="1742780449367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
@@ -643,7 +590,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$tp2_ex33.coverage" NAME="tp2_ex33 Coverage Results" MODIFIED="1735004119563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp3_ex11.coverage" NAME="tp3_ex11 Coverage Results" MODIFIED="1739572497977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3" />
     <SUITE FILE_PATH="coverage/pythonProject$tp5_ex31_server.coverage" NAME="tp5_ex31_server Coverage Results" MODIFIED="1742779407525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp5" />
-    <SUITE FILE_PATH="coverage/pythonProject$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1732069804251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1743548488891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp1" />
     <SUITE FILE_PATH="coverage/pythonProject$tp4_ex24.coverage" NAME="tp4_ex24 Coverage Results" MODIFIED="1741660389057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4" />
   </component>
 </project>
